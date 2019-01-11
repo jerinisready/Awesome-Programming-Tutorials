@@ -7,12 +7,16 @@ This includes the best set of tutorials I came Accross
 * [W3Schools](https://w3schools.org)
 
 
-
 ## Intermediate
 * [Rip Tutorials](https://riptutorial.com/tags)
 
 
+---
 
+### Python `intermediates`
+* [Rip Tutorials](https://riptutorial.com/python)
+
+---
 
 ### Django `beginners`
 * [Django documentations](https://docs.djangoproject.com/en/dev/)
@@ -22,8 +26,5 @@ This includes the best set of tutorials I came Accross
 ### Django `intermediates`
 * [Rip Tutorials](https://riptutorial.com/django)
 
-### Python `intermediates`
-* [Rip Tutorials](https://riptutorial.com/python)
 
-
-
+---
